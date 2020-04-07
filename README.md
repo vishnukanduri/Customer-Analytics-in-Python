@@ -3,7 +3,7 @@ I use various Data Science and machine learning techniques to analyze customer d
 
 Purchase Analytics Descriptive Analysis: In this notebook, I have used the segmentation model to divide customers into segments and gain insights about their shopping habits. I have exploratory data analysis. I have answered questions like how often people go shopping, how much money do they spend, how often do they buy a product relative to their store visits. I created dummy variables for the required features. I have answered questions like which brand is preferred by each segment, what are the reasons for their selection. I have also come up with ideas to improve the sales of a brand. I also analyzed different segments based on revenue. 
 
-Purchase Analytics Predictive Analysis: I have caluclated price elasticity of purchase probability and quantity, purchase probability by segments, purchase probability with and without promotion, price elasticity with and without promotion, own and cross price elasticities by segment, analyzed brand choice by customers
+Purchase Analytics Predictive Analysis: I have caluclated price elasticity of purchase probability and quantity, purchase probability by segments, purchase probability with and without promotion, price elasticity with and without promotion, own and cross price elasticities by segment and analyzed brand choice by customers and customers segments.
 
 The file segmentation data.csv is the dataset used to build the segmentation model (Customer Analytics Segmentation.ipynb).
 
