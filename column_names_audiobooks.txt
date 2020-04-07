@@ -1,0 +1,13 @@
+Column headers in order from left to right: 
+ID, 
+Book length (mins) - Overall, 
+Book Length (mins) - average, 
+Overall Price, 
+Average Price, 
+Review(Boolean variable indicating if the user has left a review after a purchase), 
+Review 10/10 (Review on a scale of 10), 
+Minutes listened, 
+Completion (what fraction of the audiobook has the user completed), 
+Support requests, 
+Last visited minus purchase date, 
+Targets (output of whether the user made another purchase in the audiobook company).
